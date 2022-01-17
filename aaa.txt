@@ -1,6 +1,6 @@
 aaaa
-bbbb
-cccc
+bbbb 这是新加的一行
+cccc 这也是新加的一行
 new branch
 这个是test2在编辑
 test2 editted this file again
