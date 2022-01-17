@@ -1,5 +1,5 @@
 aaaa
-cccc
-new branch
+cccc 我也新加一行
+new branch 这里也新加一行
 这个是test2在编辑
 test2 editted this file again
